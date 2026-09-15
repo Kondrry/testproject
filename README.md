@@ -18,3 +18,9 @@ testproject/
 ├── README.md
 └── .gitignore
 ```
+
+## Запуск
+
+```bash
+python main.py
+```
